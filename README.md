@@ -10,7 +10,7 @@ https://docs.google.com/presentation/d/1jqBXGVkJ4DFNVlt0Qzhy2ElR-l-Cl_e3LKxKaiTB
 1) Realize o dowload do repositório em formato zip ou clone o mesmo em um local apropriado no seu computador
 2) Instale o Pycharm - https://www.jetbrains.com/pycharm/download/?section=windows
 3) Instale o anaconda - https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Windows-x86_64.exe
-4) Abra a pasta do repositório com o pycharm, considere a pasta raíz sendo data-science. O repositorio deverá ser visualizado como mostrado na figura seguinte:
+4) Abra a pasta do repositório (extrair do zip,caso tenha feito download zip) com o pycharm, considere a pasta raíz sendo data-science. O repositorio deverá ser visualizado como mostrado na figura seguinte:
 
 ![](src/data/img_dir.png)
 
