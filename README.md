@@ -15,7 +15,7 @@ https://docs.google.com/presentation/d/1jqBXGVkJ4DFNVlt0Qzhy2ElR-l-Cl_e3LKxKaiTB
 ![](src/data/img_dir.png)
 
 5) Configure o ambiente Python - https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html
-6)  installe algumas bibliotecas importantes: 
+6)  instale algumas bibliotecas importantes: 
 
     ``pip install -r requirements.txt``
 7) Execute o código [0_class_anotation.py](Pre-processing%2FUnidade1%2F0_class_anotation.py). Este deve funcionar sem apresentar erros.
