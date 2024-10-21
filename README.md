@@ -19,3 +19,5 @@ https://docs.google.com/presentation/d/1jqBXGVkJ4DFNVlt0Qzhy2ElR-l-Cl_e3LKxKaiTB
 
     ``pip install -r requirements.txt``
 7) Execute o código [0_class_anotation.py](Pre-processing%2FUnidade1%2F0_class_anotation.py). Este deve funcionar sem apresentar erros.
+
+8) Para enviar as soluções, zip seu código e envie para alysonbnr@ufc.br
